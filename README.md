@@ -1,6 +1,6 @@
 # ✨ Favicon Generator Pro
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Demo - Probar Generador](https://img.shields.io/badge/Demo-Probar_Generador-brightgreen)](https://soyunomas.github.io/favicon-generator-pro/favicon_generator.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Demo - Probar Generador](https://img.shields.io/badge/Demo-Probar_Generador-brightgreen)](https://soyunomas.github.io/favicon-generator-pro/index.html)
 
 Una herramienta web client-side para generar favicons, iconos de app y el archivo `manifest.webmanifest` desde una única imagen, directamente en tu navegador. 🖼️
 
@@ -14,7 +14,7 @@ Este proyecto proporciona una interfaz web sencilla, basada en Bootstrap, para c
 
 Puedes probar la demo en vivo aquí:
 
-*   **[Demo - Probar Generador](https://soyunomas.github.io/favicon-generator-pro/favicon_generator.html)**
+*   **[Demo - Probar Generador](https://soyunomas.github.io/favicon-generator-pro/index.html)**
 
 ## ✨ Características Principales
 
@@ -59,8 +59,8 @@ Este proyecto es una aplicación web estática que se ejecuta completamente en e
     cd favicon-generator-pro
     ```
 3.  **Abre el archivo HTML principal:**
-    *   Abre el archivo `favicon_generator.html` directamente en tu navegador web preferido (Chrome, Firefox, Edge, etc.).
-    *   O simplemente visita la **[Demo en vivo](https://soyunomas.github.io/favicon-generator-pro/favicon_generator.html)**.
+    *   Abre el archivo `index.html` directamente en tu navegador web preferido (Chrome, Firefox, Edge, etc.).
+    *   O simplemente visita la **[Demo en vivo](https://soyunomas.github.io/favicon-generator-pro/index.html)**.
 4.  **🌐 Conexión a Internet Requerida:** Es necesaria para cargar Bootstrap (CSS y JS) y JSZip desde sus respectivos CDNs.
 5.  **(Sin Instalación Adicional):** No se requiere software extra, servidores locales ni pasos de compilación.
 
